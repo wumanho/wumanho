@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a front end developer based in GuangZhou, China.
+- 🔭 I’m a JS/TS/NodeJS full stack developer based in GuangZhou, China.
 - 🌱 I'm currently working hard to learn English
 - 👯 Here's 👉 [my blog](https://wumanho.cn/)
 
